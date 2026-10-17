@@ -1,0 +1,245 @@
+#TE	Order	Superfamily	Clade	Complete	Strand	Domains
+contig_1:1297408..1307585#LTR/Gypsy	LTR	Gypsy	Retand	yes	+	GAG|Retand PROT|Retand RT|Retand RH|Retand INT|Retand
+contig_1:32052..37249#LTR/Copia	LTR	Copia	Tork	yes	+	GAG|Tork PROT|Tork INT|Tork RT|Tork RH|Tork
+contig_1:325438..320397#LTR/Copia	LTR	Copia	Tork	yes	-	GAG|Tork PROT|Tork INT|Tork RT|Tork RH|Tork
+contig_1:331963..337617#LTR/Gypsy	LTR	Gypsy	Reina	yes	+	GAG|Reina PROT|Reina RT|Reina RH|Reina INT|Reina CHD|Reina
+contig_1:399334..387926#LTR/Gypsy	LTR	Gypsy	Retand	yes	-	GAG|Retand PROT|Retand RT|Retand RH|Retand INT|Retand
+contig_104:1175108..1171253#LTR/Copia	LTR	Copia	Ale	no	-	GAG|Ale PROT|Ale INT|Ale RH|Ale
+contig_104:243804..247493#LTR/Copia	LTR	Copia	Ale	no	+	PROT|Ale INT|Ale RT|Ale RH|Ale
+contig_104:467560..456717#LTR/Gypsy	LTR	Gypsy	Retand	no	-	GAG|Retand PROT|Retand RT|Retand aRH|Retand INT|Retand
+contig_108:520279..508860#LTR/Gypsy	LTR	Gypsy	Athila	no	-	GAG|Athila PROT|Athila
+contig_108:569747..578018#LTR/Gypsy	LTR	Gypsy	Tekay	yes	+	GAG|Tekay PROT|Tekay RT|Tekay RH|Tekay INT|Tekay CHD|Tekay
+contig_108:689267..695795#LTR/Copia	LTR	Copia	Angela	no	+	PROT|Angela INT|Angela RT|Angela RH|Angela
+contig_108:808743..820119#LTR/Gypsy	LTR	Gypsy	Retand	yes	+	GAG|Retand PROT|Retand RT|Retand RH|Retand INT|Retand
+contig_110:14871..20401#LTR/Gypsy	LTR	Gypsy	Retand	no	+	GAG|Retand
+contig_110:53066..64379#LTR/Gypsy	LTR	Gypsy	Retand	no	+	PROT|Retand RT|Retand aRH|Retand INT|Retand
+contig_113:1551525..1556109#LTR/Copia	LTR	Copia	Ale	yes	+	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+contig_113:1819902..1814927#LTR/Copia	LTR	Copia	Ale	yes	-	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+contig_113:835071..830075#LTR/Copia	LTR	Copia	Ale	yes	-	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+contig_115:3916165..3920901#LTR/Copia	LTR	Copia	Ale	yes	+	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+contig_115:4359402..4364313#LTR/Copia	LTR	Copia	Ale	yes	+	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+contig_115:724249..722482#LTR/Copia	LTR	Copia	Ale	no	-	RT|Ale RH|Ale
+contig_118:13571..22648#LTR/Copia	LTR	Copia	SIRE	yes	+	GAG|SIRE PROT|SIRE INT|SIRE RT|SIRE RH|SIRE
+contig_118:676557..681797#LTR/Gypsy	LTR	Gypsy	Reina	yes	+	GAG|Reina PROT|Reina RT|Reina RH|Reina INT|Reina CHD|Reina
+contig_118:791991..786811#LTR/Copia	LTR	Copia	Tork	yes	-	GAG|Tork PROT|Tork INT|Tork RT|Tork RH|Tork
+contig_120:1376076..1365191#LTR/Gypsy	LTR	Gypsy	Retand	no	-	PROT|Retand RT|Retand RH|Retand INT|Retand
+contig_120:1470785..1482548#LTR/Gypsy	LTR	Gypsy	Retand	no	+	GAG|Retand PROT|Retand RT|Retand aRH|Retand INT|Retand
+contig_120:378989..371381#LTR/Gypsy	LTR	Gypsy	Tekay	no	-	GAG|Tekay RT|Tekay RH|Tekay INT|Tekay CHD|Tekay
+contig_120:541946..530876#LTR/Gypsy	LTR	Gypsy	Athila	no	-	GAG|Athila PROT|Athila
+contig_120:557697..566446#LTR/Gypsy	LTR	Gypsy	Athila	yes	+	GAG|Athila PROT|Athila RT|Athila RH|Athila INT|Athila
+contig_120:595432..603342#LTR/Gypsy	LTR	Gypsy	Tekay	yes	+	GAG|Tekay PROT|Tekay RT|Tekay RH|Tekay INT|Tekay CHD|Tekay
+contig_120:633947..630364#LTR/Copia	LTR	Copia	Bianca	no	-	RH|Bianca
+contig_120:655611..647778#LTR/Gypsy	LTR	Gypsy	Athila	no	-	GAG|Athila
+contig_120:672747..684069#LTR/Gypsy	LTR	Gypsy	Athila	yes	+	GAG|Athila PROT|Athila RT|Athila RH|Athila INT|Athila
+contig_120:942271..938128#LTR/Gypsy	LTR	Gypsy	CRM	no	-	GAG|CRM CHDCR|CRM
+contig_126:1263790..1253187#LTR/Gypsy	LTR	Gypsy	Retand	yes	-	GAG|Retand PROT|Retand RT|Retand RH|Retand INT|Retand
+contig_126:1486558..1481312#LTR/Copia	LTR	Copia	Alesia	yes	-	GAG|Alesia PROT|Alesia INT|Alesia RT|Alesia RH|Alesia
+contig_126:1864850..1869114#LTR/Gypsy	LTR	Gypsy	CRM	no	+	GAG|CRM CHDCR|CRM
+contig_126:1908341..1898368#LTR/Gypsy	LTR	Gypsy	Retand	no	-	GAG|Retand PROT|Retand RT|Retand aRH|Retand INT|Retand
+contig_126:2410995..2416366#LTR/Gypsy	LTR	Gypsy	Reina	yes	+	GAG|Reina PROT|Reina RT|Reina RH|Reina INT|Reina CHD|Reina
+contig_126:2425579..2421087#LTR/Copia	LTR	Copia	Ale	no	-	GAG|Ale PROT|Ale INT|Ale RT|Ale
+contig_126:2536156..2525761#LTR/Gypsy	LTR	Gypsy	Retand	yes	-	GAG|Retand PROT|Retand RT|Retand RH|Retand INT|Retand
+contig_126:2630330..2635509#LTR/Copia	LTR	Copia	Tork	yes	+	GAG|Tork PROT|Tork INT|Tork RT|Tork RH|Tork
+contig_126:2665637..2673310#LTR/Gypsy	LTR	Gypsy	Tekay	yes	+	GAG|Tekay PROT|Tekay RT|Tekay RH|Tekay INT|Tekay CHD|Tekay
+contig_126:2751095..2745603#LTR/Copia	LTR	Copia	Tork	yes	-	GAG|Tork PROT|Tork INT|Tork RT|Tork RH|Tork
+contig_126:3177901..3172663#LTR/Copia	LTR	Copia	Tork	yes	-	GAG|Tork PROT|Tork INT|Tork RT|Tork RH|Tork
+contig_126:3184344..3189263#LTR/Copia	LTR	Copia	Ale	yes	+	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+contig_126:3211740..3203233#LTR/Gypsy	LTR	Gypsy	Retand	no	-	GAG|Retand PROT|Retand RT|Retand INT|Retand
+contig_126:3433510..3444376#LTR/Gypsy	LTR	Gypsy	Athila	no	+	GAG|Athila PROT|Athila
+contig_126:599784..605318#LTR/Copia	LTR	Copia	Ale	yes	+	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+contig_126:645982..641027#LTR/Copia	LTR	Copia	Ivana	yes	-	GAG|Ivana PROT|Ivana INT|Ivana RT|Ivana RH|Ivana
+contig_127:2022878..2031978#LTR/Copia	LTR	Copia	SIRE	yes	+	GAG|SIRE PROT|SIRE INT|SIRE RT|SIRE RH|SIRE
+contig_128:1553098..1539726#LTR/Gypsy	LTR	Gypsy	Athila	yes	-	GAG|Athila PROT|Athila RT|Athila RH|Athila INT|Athila
+contig_128:1630753..1644129#LTR/Gypsy	LTR	Gypsy	Athila	yes	+	GAG|Athila PROT|Athila RT|Athila RH|Athila INT|Athila
+contig_128:2020847..2031531#LTR/Gypsy	LTR	Gypsy	Athila	no	+	GAG|Athila PROT|Athila
+contig_128:2478502..2490734#LTR/Gypsy	LTR	Gypsy	Athila	yes	+	GAG|Athila PROT|Athila RT|Athila RH|Athila INT|Athila
+contig_128:2673675..2666985#LTR/Copia	LTR	Copia	Ale	yes	-	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+contig_131:127619..132955#LTR/Copia	LTR	Copia	Ale	yes	+	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+contig_131:19701..23866#LTR/Gypsy	LTR	Gypsy	CRM	no	+	GAG|CRM CHDCR|CRM
+contig_133:4412368..4418574#LTR/Gypsy	LTR	Gypsy	CRM	no	+	GAG|CRM PROT|CRM RT|CRM RH|CRM CHDCR|CRM
+contig_133:6235266..6240379#LTR/Copia	LTR	Copia	Bianca	no	+	RH|Bianca
+contig_133:6507543..6502582#LTR/Copia	LTR	Copia	Ale	yes	-	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+contig_133:7043042..7038554#LTR/Copia	LTR	Copia	Tork	yes	-	GAG|Tork PROT|Tork INT|Tork RT|Tork RH|Tork
+contig_133:7205965..7201330#LTR/Copia	LTR	Copia	Ale	yes	-	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+contig_133:7209402..7214267#LTR/Copia	LTR	Copia	Bianca	no	+	RH|Bianca
+contig_133:728246..723512#LTR/Copia	LTR	Copia	Ale	yes	-	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+contig_133:7472459..7480091#LTR/Gypsy	LTR	Gypsy	Reina	yes	?	GAG|Reina PROT|Reina RT|Reina RH|Reina INT|Reina CHD|Reina
+contig_133:7563786..7568768#LTR/Copia	LTR	Copia	Ale	yes	+	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+contig_134:1440288..1451072#LTR/Gypsy	LTR	Gypsy	Athila	no	+	GAG|Athila PROT|Athila
+contig_134:1896145..1885437#LTR/Gypsy	LTR	Gypsy	Athila	no	-	GAG|Athila PROT|Athila
+contig_134:237593..245850#LTR/Gypsy	LTR	Gypsy	Tekay	yes	+	GAG|Tekay PROT|Tekay RT|Tekay RH|Tekay INT|Tekay CHD|Tekay
+contig_134:295862..300377#LTR/Gypsy	LTR	Gypsy	Reina	yes	+	GAG|Reina PROT|Reina RT|Reina RH|Reina INT|Reina CHD|Reina
+contig_134:417463..409834#LTR/Gypsy	LTR	Gypsy	Tekay	yes	-	GAG|Tekay PROT|Tekay RT|Tekay RH|Tekay INT|Tekay CHD|Tekay
+contig_134:446950..441529#LTR/Copia	LTR	Copia	Ale	yes	-	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+contig_134:541578..529820#LTR/Copia	LTR	Copia	SIRE	no	-	GAG|SIRE PROT|SIRE INT|SIRE RH|SIRE
+contig_134:541578..533849#LTR/Copia	LTR	Copia	SIRE	yes	-	GAG|SIRE PROT|SIRE INT|SIRE RT|SIRE RH|SIRE
+contig_134:542452..547381#LTR/Copia	LTR	Copia	Ivana	yes	+	GAG|Ivana PROT|Ivana INT|Ivana RT|Ivana RH|Ivana
+contig_134:598686..605340#LTR/Gypsy	LTR	Gypsy	CRM	yes	+	GAG|CRM PROT|CRM RT|CRM RH|CRM INT|CRM CHDCR|CRM
+contig_134:617510..608372#LTR/Gypsy	LTR	Gypsy	Retand	no	-	GAG|Retand PROT|Retand RT|Retand aRH|Retand INT|Retand
+contig_136:2685128..2680017#LTR/Copia	LTR	Copia	Bianca	no	-	RH|Bianca
+contig_136:3036795..3040130#LTR/Gypsy	LTR	Gypsy	Reina	no	+	GAG|Reina
+contig_136:3485867..3482816#LTR/Copia	LTR	Copia	Ale	no	-	GAG|Ale RT|Ale RH|Ale
+contig_136:3751913..3759876#LTR/Copia	LTR	Copia	SIRE	yes	+	GAG|SIRE PROT|SIRE INT|SIRE RT|SIRE RH|SIRE
+contig_136:3917680..3922736#LTR/Copia	LTR	Copia	Ale	yes	+	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+contig_136:4341759..4336754#LTR/Copia	LTR	Copia	Ale	yes	-	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+contig_136:6544834..6550198#LTR/Copia	LTR	Copia	Ale	yes	+	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+contig_136:6913801..6919303#LTR/Gypsy	LTR	Gypsy	Reina	yes	+	GAG|Reina PROT|Reina RT|Reina RH|Reina INT|Reina CHD|Reina
+contig_136:7385689..7390790#LTR/Copia	LTR	Copia	Tork	yes	+	GAG|Tork PROT|Tork INT|Tork RT|Tork RH|Tork
+contig_138:1934182..1928820#LTR/Copia	LTR	Copia	Tork	yes	-	GAG|Tork PROT|Tork INT|Tork RT|Tork RH|Tork
+contig_138:2261969..2256610#LTR/Copia	LTR	Copia	Ale	yes	-	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+contig_138:4341703..4336308#LTR/Gypsy	LTR	Gypsy	CRM	yes	-	GAG|CRM PROT|CRM RT|CRM RH|CRM INT|CRM
+contig_138:596614..590421#LTR/Copia	LTR	Copia	Tork	yes	-	GAG|Tork PROT|Tork INT|Tork RT|Tork RH|Tork
+contig_140:404098..408883#LTR/Copia	LTR	Copia	Ale	yes	+	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+contig_140:549733..555527#LTR/Copia	LTR	Copia	Tork	yes	+	GAG|Tork PROT|Tork INT|Tork RT|Tork RH|Tork
+contig_140:686759..697724#LTR/Gypsy	LTR	Gypsy	Retand	no	+	GAG|Retand PROT|Retand RT|Retand aRH|Retand INT|Retand
+contig_140:965429..960616#LTR/Copia	LTR	Copia	Ale	yes	-	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+contig_141:1005616..991428#LTR/Gypsy	LTR	Gypsy	Athila	yes	-	GAG|Athila PROT|Athila RT|Athila RH|Athila INT|Athila
+contig_141:303342..317366#LTR/Gypsy	LTR	Gypsy	Athila	yes	+	GAG|Athila PROT|Athila RT|Athila RH|Athila INT|Athila
+contig_145:1107790..1101111#LTR/Gypsy	LTR	Gypsy	Athila	no	-	GAG|Athila PROT|Athila
+contig_145:1180865..1187532#LTR/Gypsy	LTR	Gypsy	Athila	no	+	GAG|Athila PROT|Athila
+contig_145:1333456..1324571#LTR/Gypsy	LTR	Gypsy	Athila	no	-	GAG|Athila PROT|Athila
+contig_145:141748..134304#LTR/Copia	LTR	Copia	Tork	yes	-	GAG|Tork PROT|Tork INT|Tork RT|Tork RH|Tork
+contig_145:1461829..1455342#LTR/Copia	LTR	Copia	Ikeros	yes	-	GAG|Ikeros PROT|Ikeros INT|Ikeros RT|Ikeros RH|Ikeros
+contig_145:1492692..1497692#LTR/Copia	LTR	Copia	Ale	yes	+	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+contig_145:1515669..1526884#LTR/Gypsy	LTR	Gypsy	Athila	no	+	GAG|Athila PROT|Athila
+contig_145:1562316..1556827#LTR/Gypsy	LTR	Gypsy	Reina	yes	-	GAG|Reina PROT|Reina RT|Reina RH|Reina INT|Reina CHD|Reina
+contig_145:2788878..2779598#LTR/Gypsy	LTR	Gypsy	Athila	no	-	GAG|Athila PROT|Athila
+contig_145:571516..576551#LTR/Copia	LTR	Copia	Ale	no	+	PROT|Ale INT|Ale RT|Ale RH|Ale
+contig_148:107811..103360#LTR/Copia	LTR	Copia	Ale	no	-	GAG|Ale INT|Ale RT|Ale RH|Ale
+contig_148:2314156..2319112#LTR/Copia	LTR	Copia	Ivana	yes	+	GAG|Ivana PROT|Ivana INT|Ivana RT|Ivana RH|Ivana
+contig_148:2644389..2648121#LTR/Copia	LTR	Copia	SIRE	no	+	GAG|SIRE
+contig_148:3591975..3586037#LTR/Copia	LTR	Copia	Bianca	yes	-	GAG|Bianca PROT|Bianca INT|Bianca RT|Bianca RH|Bianca
+contig_148:4159713..4165049#LTR/Copia	LTR	Copia	Ale	yes	+	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+contig_148:4233732..4238637#LTR/Copia	LTR	Copia	Ale	yes	+	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+contig_148:4340375..4345343#LTR/Copia	LTR	Copia	Ivana	yes	+	GAG|Ivana PROT|Ivana INT|Ivana RT|Ivana RH|Ivana
+contig_148:4551139..4555844#LTR/Copia	LTR	Copia	Ale	yes	+	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+contig_148:4741618..4746880#LTR/Copia	LTR	Copia	Alesia	yes	+	GAG|Alesia PROT|Alesia INT|Alesia RT|Alesia RH|Alesia
+contig_148:48032..42972#LTR/Copia	LTR	Copia	Ale	yes	-	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+contig_148:5779749..5790672#LTR/Gypsy	LTR	Gypsy	Retand	yes	+	GAG|Retand PROT|Retand RT|Retand RH|Retand INT|Retand
+contig_148:5865334..5857686#LTR/Gypsy	LTR	Gypsy	Tekay	yes	-	GAG|Tekay PROT|Tekay RT|Tekay RH|Tekay INT|Tekay CHD|Tekay
+contig_148:5888877..5894167#LTR/Copia	LTR	Copia	Ale	yes	+	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+contig_151:1083685..1090260#LTR/Gypsy	LTR	Gypsy	Athila	no	+	GAG|Athila PROT|Athila
+contig_151:1115836..1124908#LTR/Copia	LTR	Copia	SIRE	yes	+	GAG|SIRE PROT|SIRE INT|SIRE RT|SIRE RH|SIRE
+contig_151:1166216..1160759#LTR/Copia	LTR	Copia	TAR	yes	-	GAG|TAR PROT|TAR INT|TAR RT|TAR RH|TAR
+contig_151:1233065..1222478#LTR/Gypsy	LTR	Gypsy	Athila	no	-	GAG|Athila PROT|Athila
+contig_154:2320941..2316050#LTR/Copia	LTR	Copia	Ale	yes	-	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+contig_154:238043..242738#LTR/Copia	LTR	Copia	Ale	yes	+	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+contig_154:256356..261489#LTR/Copia	LTR	Copia	Bianca	no	+	RH|Bianca
+contig_154:2716167..2719025#LTR/Gypsy	LTR	Gypsy	Reina	no	+	GAG|Reina
+contig_154:2954712..2960052#LTR/Copia	LTR	Copia	Tork	yes	+	GAG|Tork PROT|Tork INT|Tork RT|Tork RH|Tork
+contig_154:3352301..3362398#LTR/Gypsy	LTR	Gypsy	Retand	no	+	GAG|Retand PROT|Retand RT|Retand INT|Retand
+contig_154:3501690..3497679#LTR/Copia	LTR	Copia	Bianca	no	-	PROT|Bianca INT|Bianca RT|Bianca RH|Bianca
+contig_154:3532959..3527984#LTR/Copia	LTR	Copia	Ale	yes	-	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+contig_154:362856..357888#LTR/Copia	LTR	Copia	Ale	yes	-	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+contig_154:4788653..4783455#LTR/Copia	LTR	Copia	Ale	yes	-	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+contig_154:4822235..4819092#LTR/Gypsy	LTR	Gypsy	Reina	no	-	GAG|Reina
+contig_154:4852733..4849027#LTR/Copia	LTR	Copia	Ale	no	-	INT|Ale RT|Ale RH|Ale
+contig_154:4888222..4889793#LTR/Gypsy	LTR	Gypsy	Athila	no	+	GAG|Athila
+contig_154:4908635..4903677#LTR/Copia	LTR	Copia	Ivana	yes	-	GAG|Ivana PROT|Ivana INT|Ivana RT|Ivana RH|Ivana
+contig_154:5046749..5036678#LTR/Gypsy	LTR	Gypsy	Retand	yes	-	GAG|Retand PROT|Retand RT|Retand RH|Retand INT|Retand
+contig_154:5049485..5054345#LTR/Copia	LTR	Copia	Ale	yes	+	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+contig_154:5290711..5296047#LTR/Copia	LTR	Copia	Ale	yes	+	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+contig_154:5750545..5755894#LTR/Copia	LTR	Copia	Ale	yes	+	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+contig_154:5778534..5788901#LTR/Gypsy	LTR	Gypsy	Athila	no	+	GAG|Athila PROT|Athila
+contig_154:6087712..6080017#LTR/Gypsy	LTR	Gypsy	CRM	yes	-	GAG|CRM PROT|CRM RT|CRM RH|CRM INT|CRM CHDCR|CRM
+contig_154:6102175..6097039#LTR/Copia	LTR	Copia	Ivana	yes	-	GAG|Ivana PROT|Ivana INT|Ivana RT|Ivana RH|Ivana
+contig_154:6160376..6154185#LTR/Copia	LTR	Copia	SIRE	yes	-	GAG|SIRE PROT|SIRE INT|SIRE RT|SIRE RH|SIRE
+contig_154:6174098..6184949#LTR/Gypsy	LTR	Gypsy	Athila	no	+	GAG|Athila PROT|Athila
+contig_154:6716870..6721650#LTR/Gypsy	LTR	Gypsy	Athila	no	+	GAG|Athila
+contig_154:6757378..6746596#LTR/Gypsy	LTR	Gypsy	Retand	no	-	GAG|Retand PROT|Retand RT|Retand aRH|Retand
+contig_154:7046494..7042547#LTR/Gypsy	LTR	Gypsy	CRM	no	-	GAG|CRM CHDCR|CRM
+contig_154:7343418..7333644#LTR/Gypsy	LTR	Gypsy	Athila	no	-	GAG|Athila PROT|Athila
+contig_154:7632895..7643543#LTR/Gypsy	LTR	Gypsy	Athila	no	+	GAG|Athila PROT|Athila
+contig_154:7686870..7698209#LTR/Gypsy	LTR	Gypsy	Athila	no	+	GAG|Athila PROT|Athila
+contig_154:7741145..7751170#LTR/Gypsy	LTR	Gypsy	Athila	no	+	GAG|Athila PROT|Athila
+contig_154:965344..970298#LTR/Copia	LTR	Copia	Ivana	yes	+	GAG|Ivana PROT|Ivana INT|Ivana RT|Ivana RH|Ivana
+contig_158:1111166..1102339#LTR/Gypsy	LTR	Gypsy	Athila	no	-	GAG|Athila PROT|Athila
+contig_158:1157403..1169861#LTR/Gypsy	LTR	Gypsy	Athila	no	+	GAG|Athila RT|Athila RH|Athila INT|Athila
+contig_158:1289631..1280777#LTR/Gypsy	LTR	Gypsy	Athila	no	-	GAG|Athila PROT|Athila
+contig_158:1331133..1320362#LTR/Gypsy	LTR	Gypsy	Athila	no	-	GAG|Athila PROT|Athila
+contig_158:1461705..1473441#LTR/Gypsy	LTR	Gypsy	Athila	yes	+	GAG|Athila PROT|Athila RT|Athila RH|Athila INT|Athila
+contig_158:1508826..1500297#LTR/Gypsy	LTR	Gypsy	Athila	no	-	GAG|Athila PROT|Athila
+contig_158:1671567..1676777#LTR/Gypsy	LTR	Gypsy	CRM	yes	+	GAG|CRM PROT|CRM RT|CRM RH|CRM INT|CRM
+contig_158:2515704..2527100#LTR/Gypsy	LTR	Gypsy	Athila	no	+	GAG|Athila PROT|Athila
+contig_158:2602388..2620851#LTR/Gypsy	LTR	Gypsy	Athila	no	?	INT|Retand GAG|Athila PROT|Athila
+contig_158:2879320..2884571#LTR/Copia	LTR	Copia	Tork	yes	+	GAG|Tork PROT|Tork INT|Tork RT|Tork RH|Tork
+contig_158:3090319..3099077#LTR/Copia	LTR	Copia	SIRE	yes	+	GAG|SIRE PROT|SIRE INT|SIRE RT|SIRE RH|SIRE
+contig_158:3134115..3124528#LTR/Gypsy	LTR	Gypsy	Retand	no	-	GAG|Retand PROT|Retand RT|Retand aRH|Retand INT|Retand
+contig_158:3154195..3149724#LTR/Copia	LTR	Copia	Bianca	no	-	PROT|Bianca INT|Bianca RT|Bianca RH|Bianca
+contig_158:3303605..3298644#LTR/Copia	LTR	Copia	Ale	yes	-	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+contig_158:3802643..3807678#LTR/Copia	LTR	Copia	Ale	yes	+	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+contig_158:3912450..3906971#LTR/Copia	LTR	Copia	Bianca	no	-	PROT|Bianca INT|Bianca RT|Bianca RH|Bianca
+contig_158:4108693..4112522#LTR/Copia	LTR	Copia	Ale	no	+	GAG|Ale RT|Ale RH|Ale
+contig_158:4314109..4309144#LTR/Copia	LTR	Copia	Ale	yes	-	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+contig_158:4469748..4464477#LTR/Copia	LTR	Copia	Ale	yes	-	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+contig_158:4827799..4823287#LTR/Copia	LTR	Copia	SIRE	yes	-	GAG|SIRE PROT|SIRE INT|SIRE RT|SIRE RH|SIRE
+contig_158:4898858..4894648#LTR/Copia	LTR	Copia	Ale	yes	-	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+contig_158:5435861..5430667#LTR/Copia	LTR	Copia	Tork	yes	-	GAG|Tork PROT|Tork INT|Tork RT|Tork RH|Tork
+contig_158:5513946..5519866#LTR/Copia	LTR	Copia	Bianca	yes	+	GAG|Bianca PROT|Bianca INT|Bianca RT|Bianca RH|Bianca
+contig_158:6131523..6126807#LTR/Copia	LTR	Copia	Ale	yes	-	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+contig_158:750011..761277#LTR/Gypsy	LTR	Gypsy	Athila	no	+	GAG|Athila PROT|Athila
+contig_158:750011..764593#LTR/Gypsy	LTR	Gypsy	Athila	no	+	GAG|Athila PROT|Athila
+contig_158:788134..801724#LTR/Gypsy	LTR	Gypsy	Athila	yes	+	GAG|Athila PROT|Athila RT|Athila RH|Athila INT|Athila
+contig_158:8589581..8584473#LTR/Copia	LTR	Copia	Bianca	no	-	RH|Bianca
+contig_79:10835293..10830176#LTR/Copia	LTR	Copia	Bianca	no	-	RH|Bianca
+contig_79:1152529..1144742#LTR/Copia	LTR	Copia	Tork	yes	-	GAG|Tork PROT|Tork INT|Tork RT|Tork RH|Tork
+contig_79:1199363..1194200#LTR/Copia	LTR	Copia	Bianca	no	-	RH|Bianca
+contig_79:2506349..2501436#LTR/Copia	LTR	Copia	Ale	yes	-	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+contig_79:2805672..2810429#LTR/Copia	LTR	Copia	Ivana	yes	+	GAG|Ivana PROT|Ivana INT|Ivana RT|Ivana RH|Ivana
+contig_79:2847143..2851885#LTR/Copia	LTR	Copia	Ivana	yes	+	GAG|Ivana PROT|Ivana INT|Ivana RT|Ivana RH|Ivana
+contig_79:393127..398605#LTR/Gypsy	LTR	Gypsy	Reina	yes	+	GAG|Reina PROT|Reina RT|Reina RH|Reina INT|Reina CHD|Reina
+contig_79:515626..520762#LTR/Copia	LTR	Copia	Bianca	no	+	RH|Bianca
+contig_80:1134439..1139626#LTR/Copia	LTR	Copia	Tork	yes	+	GAG|Tork PROT|Tork INT|Tork RT|Tork RH|Tork
+contig_80:1557248..1551920#LTR/Copia	LTR	Copia	Ale	yes	-	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+contig_80:2484274..2479104#LTR/Copia	LTR	Copia	Tork	yes	-	GAG|Tork PROT|Tork INT|Tork RT|Tork RH|Tork
+contig_80:2582901..2588165#LTR/Copia	LTR	Copia	Tork	yes	+	GAG|Tork PROT|Tork INT|Tork RT|Tork RH|Tork
+contig_80:343626..338762#LTR/Copia	LTR	Copia	Ale	yes	-	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+contig_80:4030318..4024394#LTR/Copia	LTR	Copia	Bianca	yes	-	GAG|Bianca PROT|Bianca INT|Bianca RT|Bianca RH|Bianca
+contig_80:4246481..4241723#LTR/Copia	LTR	Copia	Ale	yes	-	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+contig_80:4685115..4679550#LTR/Gypsy	LTR	Gypsy	Reina	yes	-	GAG|Reina PROT|Reina RT|Reina RH|Reina INT|Reina CHD|Reina
+contig_80:4882222..4892510#LTR/Gypsy	LTR	Gypsy	Retand	yes	+	GAG|Retand PROT|Retand RT|Retand RH|Retand INT|Retand
+contig_80:5118931..5114314#LTR/Copia	LTR	Copia	Ale	yes	-	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+contig_80:5292863..5287729#LTR/Copia	LTR	Copia	Ale	yes	-	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+contig_80:544696..539453#LTR/Gypsy	LTR	Gypsy	Reina	yes	-	GAG|Reina PROT|Reina RT|Reina RH|Reina INT|Reina CHD|Reina
+contig_80:5908329..5902907#LTR/Copia	LTR	Copia	Ale	yes	-	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+contig_80:6827755..6832863#LTR/Copia	LTR	Copia	Ale	yes	+	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+contig_80:6929026..6939882#LTR/Gypsy	LTR	Gypsy	Athila	no	+	GAG|Athila PROT|Athila
+contig_80:7222095..7216732#LTR/Gypsy	LTR	Gypsy	CRM	yes	-	GAG|CRM PROT|CRM RT|CRM RH|CRM INT|CRM
+contig_80:7314333..7328426#LTR/Gypsy	LTR	Gypsy	Athila	yes	+	GAG|Athila PROT|Athila RT|Athila RH|Athila INT|Athila
+contig_80:7396956..7385789#LTR/Gypsy	LTR	Gypsy	Athila	no	-	GAG|Athila PROT|Athila
+contig_80:7427639..7432354#LTR/Copia	LTR	Copia	Ivana	yes	+	GAG|Ivana PROT|Ivana INT|Ivana RT|Ivana RH|Ivana
+contig_80:7590663..7604241#LTR/Gypsy	LTR	Gypsy	Athila	yes	+	GAG|Athila PROT|Athila RT|Athila RH|Athila INT|Athila
+contig_80:7787967..7795754#LTR/Gypsy	LTR	Gypsy	Athila	no	+	GAG|Athila PROT|Athila
+contig_80:7877376..7884036#LTR/Gypsy	LTR	Gypsy	Athila	no	+	GAG|Athila PROT|Athila
+contig_80:7901368..7908738#LTR/Gypsy	LTR	Gypsy	Athila	no	+	GAG|Athila PROT|Athila RT|Athila RH|Athila
+contig_80:7935056..7940134#LTR/Copia	LTR	Copia	Tork	yes	+	GAG|Tork PROT|Tork INT|Tork RT|Tork RH|Tork
+contig_81:191124..185263#LTR/Copia	LTR	Copia	SIRE	yes	-	GAG|SIRE PROT|SIRE INT|SIRE RT|SIRE RH|SIRE
+contig_81:490244..485549#LTR/Copia	LTR	Copia	Ivana	yes	-	GAG|Ivana PROT|Ivana INT|Ivana RT|Ivana RH|Ivana
+contig_81:549479..554726#LTR/Copia	LTR	Copia	Tork	yes	+	GAG|Tork PROT|Tork INT|Tork RT|Tork RH|Tork
+contig_81:665372..660067#LTR/Gypsy	LTR	Gypsy	Reina	yes	-	GAG|Reina PROT|Reina RT|Reina RH|Reina INT|Reina CHD|Reina
+contig_85:1535003..1540450#LTR/Gypsy	LTR	Gypsy	CRM	no	+	GAG|CRM PROT|CRM RT|CRM INT|CRM CHDCR|CRM
+contig_85:23617..32441#LTR/Gypsy	LTR	Gypsy	Athila	no	+	GAG|Athila PROT|Athila
+contig_85:239081..233570#LTR/Gypsy	LTR	Gypsy	CRM	no	-	GAG|CRM RT|CRM RH|CRM INT|CRM CHDCR|CRM
+contig_85:273362..279835#LTR/Copia	LTR	Copia	Ikeros	yes	+	GAG|Ikeros PROT|Ikeros INT|Ikeros RT|Ikeros RH|Ikeros
+contig_85:613900..603020#LTR/Gypsy	LTR	Gypsy	Athila	no	-	GAG|Athila PROT|Athila
+contig_85:622968..615347#LTR/Gypsy	LTR	Gypsy	Tekay	yes	-	GAG|Tekay PROT|Tekay RT|Tekay RH|Tekay INT|Tekay CHD|Tekay
+contig_85:933751..942422#LTR/Gypsy	LTR	Gypsy	Athila	no	+	GAG|Athila PROT|Athila
+contig_87:146658..138974#LTR/Gypsy	LTR	Gypsy	Tekay	yes	-	GAG|Tekay PROT|Tekay RT|Tekay RH|Tekay INT|Tekay CHD|Tekay
+contig_91:2435717..2438100#LTR/Copia	LTR	Copia	Ale	no	+	RT|Ale RH|Ale
+contig_91:56230..53659#LTR/Gypsy	LTR	Gypsy	Reina	no	-	GAG|Reina
+contig_96:225686..237445#LTR/Gypsy	LTR	Gypsy	Retand	yes	+	GAG|Retand PROT|Retand RT|Retand RH|Retand INT|Retand
+contig_96:452825..456479#LTR/Copia	LTR	Copia	Ale	no	+	PROT|Ale INT|Ale RT|Ale RH|Ale
+contig_96:557313..548440#LTR/Gypsy	LTR	Gypsy	Athila	no	-	GAG|Athila PROT|Athila
+contig_96:805575..820184#LTR/Gypsy	LTR	Gypsy	Athila	yes	+	GAG|Athila PROT|Athila RT|Athila RH|Athila INT|Athila
+contig_96:900575..916972#LTR/Gypsy	LTR	Gypsy	Athila	no	+	RT|Athila RH|Athila INT|Athila GAG|Retand PROT|Retand
+contig_97:42432..37201#LTR/Copia	LTR	Copia	Ale	yes	-	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+contig_98:3011348..3006460#LTR/Copia	LTR	Copia	Bianca	no	-	RH|Bianca
+contig_98:4756818..4752082#LTR/Copia	LTR	Copia	Ale	yes	-	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+contig_98:5685195..5692889#LTR/Gypsy	LTR	Gypsy	Tekay	yes	+	GAG|Tekay PROT|Tekay RT|Tekay RH|Tekay INT|Tekay CHD|Tekay
+contig_98:7092474..7087936#LTR/Copia	LTR	Copia	Ivana	yes	-	GAG|Ivana PROT|Ivana INT|Ivana RT|Ivana RH|Ivana
+contig_98:7942023..7949155#LTR/Copia	LTR	Copia	Ale	no	+	PROT|Ale INT|Ale RT|Ale RH|Ale GAG|Reina
+contig_98:7942365..7946919#LTR/Copia	LTR	Copia	Ale	no	+	PROT|Ale INT|Ale RT|Ale RH|Ale
+contig_98:8164044..8158883#LTR/Copia	LTR	Copia	Ale	yes	-	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+contig_98:8190011..8185025#LTR/Copia	LTR	Copia	Ale	yes	-	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+contig_81:5934..12416#LTR/unknown	LTR	Gypsy	unknown	none	?	none
+contig_141:515253..520828#LTR/unknown	LTR	Gypsy	unknown	none	?	none
