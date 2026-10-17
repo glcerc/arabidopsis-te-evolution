@@ -1,0 +1,37 @@
+# User-specific configuration
+config/local.env
+
+# Genome and sequencing files
+*.fa
+*.fasta
+*.fna
+*.fastq
+*.fq
+*.fastq.gz
+*.fq.gz
+
+# Large bioinformatics outputs
+*.bam
+*.cram
+*.sam
+*.sif
+*.tar.gz
+*.masked
+*.mod
+
+# Temporary files and logs
+logs/
+tmp/
+*.err
+*.out
+
+# Python and R
+__pycache__/
+*.pyc
+.Rhistory
+.RData
+.Rproj.user/
+
+# Editor and OS files
+.vscode/
+.DS_Store
