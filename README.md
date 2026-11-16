@@ -196,3 +196,83 @@ The course provided software environments, reference datasets, and analysis scri
 
 **Ongoing — exploratory research and comparative genomic analysis.**
 
+
+---
+
+## Co-4 Pangenome and Genomic Validation
+
+### Comparative genomics
+
+GENESPACE was used to compare five Arabidopsis thaliana genomes:
+Co-4, TAIR10, Altai-5, Are-6, and Etna-2.
+
+The analysis identified:
+
+- 525 candidate Co-4-only pan-gene groups
+- 585 associated gene records
+- 369 gene records with at least one external functional annotation match
+
+These are candidate accession-specific groups based on GENESPACE
+classification, not confirmed biologically unique genes.
+
+### DNA-level validation
+
+The 585 candidate gene regions were screened against four other
+accession genomes using minimap2.
+
+Initial asm5 results:
+
+| Classification | Gene records |
+|---|---:|
+| Strong genomic match | 405 |
+| Partial or divergent match | 54 |
+| No initial alignment | 126 |
+
+Additional screening of 119 initially unmatched candidates with
+minimap2 asm20 detected 11 strong matches and 3 partial or divergent
+matches. The remaining 105 had no detectable asm20 alignment.
+
+Seven separately prioritized candidates were examined using sensitive
+BLASTN. All seven showed DNA sequence similarity to the reference
+accessions, demonstrating the limitations of relying exclusively on
+initial minimap2 results.
+
+A lack of alignment is not evidence of biological gene absence.
+
+### Functional characterization
+
+A notable candidate was:
+
+`maker-contig_133-augustus-gene-71.45`
+
+- Putative plant defense-related gene
+- TIR domain: PF01582
+- NB-ARC domain: PF00931
+- Annotation edit distance (AED): 0.09
+- TAIR10 protein alignment identity: 67.59%
+- Genomic BLASTN: approximately 81% identity and 65% query coverage
+  in each of the four reference accessions
+
+Its possible defense-related function is inferred from sequence and
+domain evidence. Neither function nor Co-4-specific presence has been
+experimentally validated.
+
+### Annotation quality
+
+BUSCO analysis with the brassicales_odb10 lineage:
+
+- Flye genome assembly: 99.9% complete
+- Longest-protein gene annotation: 87.9% complete
+- Longest-transcript annotation: 89.1% complete
+
+### Reproducibility
+
+New analysis scripts and curated results are stored in
+`co4_annotation_2026/`.
+
+Large genome assemblies, temporary alignment databases, intermediate
+files, and cluster logs are not included.
+
+The genomic presence/absence results represent screening evidence.
+Sensitive sequence searches, synteny inspection, repeat filtering,
+and assembly-quality checks remain necessary for definitive claims.

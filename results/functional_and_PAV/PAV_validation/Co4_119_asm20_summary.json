@@ -1,0 +1,16 @@
+{
+  "initial_candidates": 119,
+  "classification": {
+    "no_asm20_alignment": 105,
+    "strong_match_detected": 11,
+    "partial_or_divergent_match": 3
+  },
+  "still_unmapped_pangene_groups": 103,
+  "notes": [
+    "PAF identity uses matching bases / alignment block length.",
+    "Coverage refers to the best single query alignment.",
+    "No asm20 alignment is not evidence of genomic absence.",
+    "Short genes may be missed by minimap2 presets.",
+    "Further sensitive BLASTN and synteny checks are needed."
+  ]
+}

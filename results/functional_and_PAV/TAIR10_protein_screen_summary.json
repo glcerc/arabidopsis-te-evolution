@@ -1,0 +1,11 @@
+{
+  "total_candidate_genes": 585,
+  "protein_fasta_records": 30374,
+  "screening_classes": {
+    "weak_or_partial_reference_similarity": 177,
+    "no_TAIR10_besthit": 226,
+    "moderate_reference_similarity": 65,
+    "strong_reference_similarity": 117
+  },
+  "note": "Query coverage is estimated from the best BLASTP alignment query coordinates. This is not reference coverage. No hit in besthits.tsv is not evidence of true gene absence."
+}

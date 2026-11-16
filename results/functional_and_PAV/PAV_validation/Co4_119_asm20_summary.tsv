@@ -1,0 +1,120 @@
+pgID	gene_id	best_AED	Col-0_hit_count	Col-0_target	Col-0_coverage_pct	Col-0_identity_pct	Col-0_strong_match	Altai-5_hit_count	Altai-5_target	Altai-5_coverage_pct	Altai-5_identity_pct	Altai-5_strong_match	Are-6_hit_count	Are-6_target	Are-6_coverage_pct	Are-6_identity_pct	Are-6_strong_match	Etna-2_hit_count	Etna-2_target	Etna-2_coverage_pct	Etna-2_identity_pct	Etna-2_strong_match	aligned_reference_count	strong_reference_count	status
+10855	maker-contig_113-exonerate_protein2genome-gene-10.15	0.36	0		0.0	0.0	0	0		0.0	0.0	0	0		0.0	0.0	0	0		0.0	0.0	0	0	0	no_asm20_alignment
+10915	maker-contig_113-exonerate_protein2genome-gene-12.83	0.13	0		0.0	0.0	0	0		0.0	0.0	0	0		0.0	0.0	0	0		0.0	0.0	0	0	0	no_asm20_alignment
+1097	maker-contig_79-exonerate_protein2genome-gene-13.4	0.42	0		0.0	0.0	0	0		0.0	0.0	0	0		0.0	0.0	0	0		0.0	0.0	0	0	0	no_asm20_alignment
+11337	maker-contig_115-exonerate_protein2genome-gene-8.65	0.35	0		0.0	0.0	0	0		0.0	0.0	0	0		0.0	0.0	0	0		0.0	0.0	0	0	0	no_asm20_alignment
+11461	maker-contig_115-exonerate_protein2genome-gene-12.56	0.32	0		0.0	0.0	0	0		0.0	0.0	0	0		0.0	0.0	0	0		0.0	0.0	0	0	0	no_asm20_alignment
+11645	augustus_masked-contig_115-processed-gene-17.32	0.44	0		0.0	0.0	0	0		0.0	0.0	0	0		0.0	0.0	0	0		0.0	0.0	0	0	0	no_asm20_alignment
+12357	maker-contig_115-exonerate_protein2genome-gene-40.83	0.16	0		0.0	0.0	0	0		0.0	0.0	0	0		0.0	0.0	0	0		0.0	0.0	0	0	0	no_asm20_alignment
+12497	augustus_masked-contig_115-processed-gene-45.5	0.47	1	Chr5	100.0	99.54	1	1	Chr5	100.0	99.54	1	1	Chr5	100.0	99.09	1	1	Chr5	100.0	99.54	1	4	4	strong_match_detected
+13	maker-contig_1-exonerate_protein2genome-gene-0.22	0.27	0		0.0	0.0	0	0		0.0	0.0	0	0		0.0	0.0	0	0		0.0	0.0	0	0	0	no_asm20_alignment
+13010	augustus_masked-contig_115-processed-gene-62.37	0.47	1	Chr5	100.0	99.13	1	1	Chr5	100.0	98.69	1	1	Chr5	100.0	99.13	1	1	Chr5	100.0	99.13	1	4	4	strong_match_detected
+13624	maker-contig_121-exonerate_protein2genome-gene-1.75	0.01	0		0.0	0.0	0	0		0.0	0.0	0	0		0.0	0.0	0	0		0.0	0.0	0	0	0	no_asm20_alignment
+13774	maker-contig_121-exonerate_protein2genome-gene-5.85	0.17	0		0.0	0.0	0	0		0.0	0.0	0	0		0.0	0.0	0	0		0.0	0.0	0	0	0	no_asm20_alignment
+14101	maker-contig_121-exonerate_protein2genome-gene-16.68	0.33	0		0.0	0.0	0	0		0.0	0.0	0	0		0.0	0.0	0	0		0.0	0.0	0	0	0	no_asm20_alignment
+1421	maker-contig_79-exonerate_protein2genome-gene-24.24	0.46	0		0.0	0.0	0	0		0.0	0.0	0	0		0.0	0.0	0	0		0.0	0.0	0	0	0	no_asm20_alignment
+15190	maker-contig_126-exonerate_protein2genome-gene-11.2	0.39	0		0.0	0.0	0	0		0.0	0.0	0	0		0.0	0.0	0	0		0.0	0.0	0	0	0	no_asm20_alignment
+15293	maker-contig_126-exonerate_protein2genome-gene-15.18	0.41	0		0.0	0.0	0	0		0.0	0.0	0	0		0.0	0.0	0	0		0.0	0.0	0	0	0	no_asm20_alignment
+15295	maker-contig_126-exonerate_protein2genome-gene-15.23	0.12	0		0.0	0.0	0	0		0.0	0.0	0	0		0.0	0.0	0	0		0.0	0.0	0	0	0	no_asm20_alignment
+15439	maker-contig_126-exonerate_protein2genome-gene-22.26	0.44	0		0.0	0.0	0	0		0.0	0.0	0	0		0.0	0.0	0	0		0.0	0.0	0	0	0	no_asm20_alignment
+15525	maker-contig_126-exonerate_protein2genome-gene-25.4	0.49	0		0.0	0.0	0	0		0.0	0.0	0	0		0.0	0.0	0	0		0.0	0.0	0	0	0	no_asm20_alignment
+15562	maker-contig_126-exonerate_protein2genome-gene-28.0	0.12	0		0.0	0.0	0	0		0.0	0.0	0	0		0.0	0.0	0	0		0.0	0.0	0	0	0	no_asm20_alignment
+15583	maker-contig_126-exonerate_protein2genome-gene-30.22	0.19	0		0.0	0.0	0	1	Chr2	97.65	99.52	1	0		0.0	0.0	0	0		0.0	0.0	0	1	1	strong_match_detected
+15640	maker-contig_126-exonerate_protein2genome-gene-34.6	0.43	0		0.0	0.0	0	0		0.0	0.0	0	0		0.0	0.0	0	0		0.0	0.0	0	0	0	no_asm20_alignment
+16384	maker-contig_127-exonerate_protein2genome-gene-22.60	0.21	2	Chr3	100.0	98.63	1	1	Chr3	100.0	99.09	1	0		0.0	0.0	0	0		0.0	0.0	0	2	2	strong_match_detected
+17102	maker-contig_128-exonerate_protein2genome-gene-22.4	0.37	0		0.0	0.0	0	0		0.0	0.0	0	0		0.0	0.0	0	0		0.0	0.0	0	0	0	no_asm20_alignment
+17118	maker-contig_128-exonerate_protein2genome-gene-23.17	0.45	0		0.0	0.0	0	0		0.0	0.0	0	0		0.0	0.0	0	0		0.0	0.0	0	0	0	no_asm20_alignment
+17138	maker-contig_128-exonerate_protein2genome-gene-24.37	0.28	0		0.0	0.0	0	0		0.0	0.0	0	0		0.0	0.0	0	0		0.0	0.0	0	0	0	no_asm20_alignment
+17139	maker-contig_128-exonerate_protein2genome-gene-25.3	0.42	0		0.0	0.0	0	0		0.0	0.0	0	0		0.0	0.0	0	0		0.0	0.0	0	0	0	no_asm20_alignment
+17181	maker-contig_128-exonerate_protein2genome-gene-28.12	0.44	0		0.0	0.0	0	0		0.0	0.0	0	0		0.0	0.0	0	0		0.0	0.0	0	0	0	no_asm20_alignment
+1795	augustus_masked-contig_79-processed-gene-37.70	0.39	1	Chr2	100.0	99.52	1	1	Chr2	100.0	99.52	1	1	Chr2	100.0	99.05	1	1	Chr2	100.0	99.52	1	4	4	strong_match_detected
+18208	maker-contig_133-exonerate_protein2genome-gene-20.89	0.47	0		0.0	0.0	0	0		0.0	0.0	0	0		0.0	0.0	0	0		0.0	0.0	0	0	0	no_asm20_alignment
+184	maker-contig_1-exonerate_protein2genome-gene-6.53	0.34	0		0.0	0.0	0	0		0.0	0.0	0	0		0.0	0.0	0	0		0.0	0.0	0	0	0	no_asm20_alignment
+19253	augustus_masked-contig_133-processed-gene-54.24	0.43	0		0.0	0.0	0	0		0.0	0.0	0	0		0.0	0.0	0	0		0.0	0.0	0	0	0	no_asm20_alignment
+19880	maker-contig_133-exonerate_protein2genome-gene-78.21	0.18	0		0.0	0.0	0	0		0.0	0.0	0	0		0.0	0.0	0	0		0.0	0.0	0	0	0	no_asm20_alignment
+19895	maker-contig_133-exonerate_protein2genome-gene-79.3	0.46	6	Chr3	100.0	97.13	1	1	Chr3	100.0	97.7	1	2	Chr3	100.0	97.7	1	8	Chr3	100.0	97.7	1	4	4	strong_match_detected
+20015	maker-contig_134-exonerate_protein2genome-gene-5.21	0.28	0		0.0	0.0	0	0		0.0	0.0	0	0		0.0	0.0	0	0		0.0	0.0	0	0	0	no_asm20_alignment
+2003	maker-contig_79-exonerate_protein2genome-gene-45.68	0.17	0		0.0	0.0	0	0		0.0	0.0	0	0		0.0	0.0	0	0		0.0	0.0	0	0	0	no_asm20_alignment
+20034	augustus_masked-contig_134-processed-gene-7.8	0.47	0		0.0	0.0	0	0		0.0	0.0	0	0		0.0	0.0	0	0		0.0	0.0	0	0	0	no_asm20_alignment
+20115	maker-contig_136-exonerate_protein2genome-gene-0.41	0.18	0		0.0	0.0	0	0		0.0	0.0	0	0		0.0	0.0	0	0		0.0	0.0	0	0	0	no_asm20_alignment
+20774	maker-contig_136-exonerate_protein2genome-gene-21.76	0.48	0		0.0	0.0	0	0		0.0	0.0	0	0		0.0	0.0	0	0		0.0	0.0	0	0	0	no_asm20_alignment
+2181	maker-contig_79-exonerate_protein2genome-gene-51.7	0.35	0		0.0	0.0	0	0		0.0	0.0	0	0		0.0	0.0	0	0		0.0	0.0	0	0	0	no_asm20_alignment
+22091	maker-contig_136-exonerate_protein2genome-gene-63.20	0.01	0		0.0	0.0	0	0		0.0	0.0	0	0		0.0	0.0	0	0		0.0	0.0	0	0	0	no_asm20_alignment
+22202	maker-contig_136-exonerate_protein2genome-gene-67.52	0.28	0		0.0	0.0	0	0		0.0	0.0	0	0		0.0	0.0	0	0		0.0	0.0	0	0	0	no_asm20_alignment
+22395	maker-contig_136-exonerate_protein2genome-gene-73.63	0.42	0		0.0	0.0	0	0		0.0	0.0	0	0		0.0	0.0	0	0		0.0	0.0	0	0	0	no_asm20_alignment
+22460	maker-contig_136-exonerate_protein2genome-gene-75.11	0.21	0		0.0	0.0	0	0		0.0	0.0	0	0		0.0	0.0	0	0		0.0	0.0	0	0	0	no_asm20_alignment
+22466	augustus_masked-contig_136-processed-gene-76.48	0.44	0		0.0	0.0	0	0		0.0	0.0	0	0		0.0	0.0	0	0		0.0	0.0	0	0	0	no_asm20_alignment
+22495	maker-contig_136-exonerate_protein2genome-gene-76.33	0.18	0		0.0	0.0	0	0		0.0	0.0	0	0		0.0	0.0	0	0		0.0	0.0	0	0	0	no_asm20_alignment
+22551	augustus_masked-contig_138-processed-gene-1.58	0.47	0		0.0	0.0	0	0		0.0	0.0	0	0		0.0	0.0	0	0		0.0	0.0	0	0	0	no_asm20_alignment
+23187	maker-contig_138-exonerate_protein2genome-gene-22.15	0.26	0		0.0	0.0	0	0		0.0	0.0	0	0		0.0	0.0	0	0		0.0	0.0	0	0	0	no_asm20_alignment
+23571	maker-contig_138-exonerate_protein2genome-gene-34.14	0.07	0		0.0	0.0	0	0		0.0	0.0	0	0		0.0	0.0	0	0		0.0	0.0	0	0	0	no_asm20_alignment
+23636	maker-contig_138-exonerate_protein2genome-gene-36.54	0.39	0		0.0	0.0	0	0		0.0	0.0	0	0		0.0	0.0	0	0		0.0	0.0	0	0	0	no_asm20_alignment
+23925	maker-contig_140-exonerate_protein2genome-gene-5.29	0.39	0		0.0	0.0	0	0		0.0	0.0	0	0		0.0	0.0	0	0		0.0	0.0	0	0	0	no_asm20_alignment
+24004	maker-contig_140-exonerate_protein2genome-gene-7.7	0.3	0		0.0	0.0	0	0		0.0	0.0	0	0		0.0	0.0	0	0		0.0	0.0	0	0	0	no_asm20_alignment
+24004	maker-contig_140-exonerate_protein2genome-gene-8.1	0.26	0		0.0	0.0	0	0		0.0	0.0	0	0		0.0	0.0	0	0		0.0	0.0	0	0	0	no_asm20_alignment
+24171	maker-contig_140-exonerate_protein2genome-gene-13.52	0.34	0		0.0	0.0	0	0		0.0	0.0	0	0		0.0	0.0	0	0		0.0	0.0	0	0	0	no_asm20_alignment
+24221	maker-contig_140-exonerate_protein2genome-gene-14.96	0.47	0		0.0	0.0	0	0		0.0	0.0	0	0		0.0	0.0	0	0		0.0	0.0	0	0	0	no_asm20_alignment
+24578	maker-contig_148-exonerate_protein2genome-gene-0.53	0.45	0		0.0	0.0	0	0		0.0	0.0	0	0		0.0	0.0	0	0		0.0	0.0	0	0	0	no_asm20_alignment
+25099	augustus_masked-contig_148-processed-gene-17.77	0.48	0		0.0	0.0	0	0		0.0	0.0	0	0		0.0	0.0	0	0		0.0	0.0	0	0	0	no_asm20_alignment
+25655	augustus_masked-contig_148-processed-gene-36.34	0.47	1	Chr4	100.0	98.78	1	1	Chr4	100.0	98.78	1	1	Chr4	100.0	98.78	1	1	Chr4	100.0	98.78	1	4	4	strong_match_detected
+25996	augustus_masked-contig_148-processed-gene-48.64	0.45	0		0.0	0.0	0	0		0.0	0.0	0	0		0.0	0.0	0	0		0.0	0.0	0	0	0	no_asm20_alignment
+26045	maker-contig_148-exonerate_protein2genome-gene-50.35	0.45	0		0.0	0.0	0	0		0.0	0.0	0	0		0.0	0.0	0	0		0.0	0.0	0	0	0	no_asm20_alignment
+26059	maker-contig_148-exonerate_protein2genome-gene-50.38	0.24	0		0.0	0.0	0	0		0.0	0.0	0	0		0.0	0.0	0	0		0.0	0.0	0	0	0	no_asm20_alignment
+26297	maker-contig_151-exonerate_protein2genome-gene-11.23	0.07	0		0.0	0.0	0	0		0.0	0.0	0	0		0.0	0.0	0	0		0.0	0.0	0	0	0	no_asm20_alignment
+26301	maker-contig_151-exonerate_protein2genome-gene-12.37	0.22	0		0.0	0.0	0	0		0.0	0.0	0	0		0.0	0.0	0	0		0.0	0.0	0	0	0	no_asm20_alignment
+26623	maker-contig_154-augustus-gene-11.23	0.49	0		0.0	0.0	0	0		0.0	0.0	0	0		0.0	0.0	0	0		0.0	0.0	0	0	0	no_asm20_alignment
+26992	augustus_masked-contig_154-processed-gene-23.37	0.39	1	Chr1	100.0	98.2	1	1	Chr1	100.0	98.2	1	1	Chr1	100.0	98.2	1	1	Chr1	100.0	98.2	1	4	4	strong_match_detected
+27242	maker-contig_154-exonerate_protein2genome-gene-31.51	0.29	0		0.0	0.0	0	0		0.0	0.0	0	0		0.0	0.0	0	0		0.0	0.0	0	0	0	no_asm20_alignment
+27286	maker-contig_154-augustus-gene-32.46	0.32	0		0.0	0.0	0	0		0.0	0.0	0	0		0.0	0.0	0	0		0.0	0.0	0	0	0	no_asm20_alignment
+27348	maker-contig_154-exonerate_protein2genome-gene-34.58	0.31	0		0.0	0.0	0	0		0.0	0.0	0	0		0.0	0.0	0	0		0.0	0.0	0	0	0	no_asm20_alignment
+27472	augustus_masked-contig_154-processed-gene-38.11	0.46	0		0.0	0.0	0	0		0.0	0.0	0	0		0.0	0.0	0	0		0.0	0.0	0	0	0	no_asm20_alignment
+27559	maker-contig_154-exonerate_est2genome-gene-41.39	0.0	0		0.0	0.0	0	0		0.0	0.0	0	0		0.0	0.0	0	0		0.0	0.0	0	0	0	no_asm20_alignment
+27745	maker-contig_154-exonerate_protein2genome-gene-47.50	0.18	0		0.0	0.0	0	0		0.0	0.0	0	0		0.0	0.0	0	0		0.0	0.0	0	0	0	no_asm20_alignment
+27759	maker-contig_154-exonerate_protein2genome-gene-47.58	0.45	0		0.0	0.0	0	0		0.0	0.0	0	0		0.0	0.0	0	0		0.0	0.0	0	0	0	no_asm20_alignment
+27902	maker-contig_154-exonerate_protein2genome-gene-53.39	0.25	0		0.0	0.0	0	0		0.0	0.0	0	0		0.0	0.0	0	0		0.0	0.0	0	0	0	no_asm20_alignment
+27965	maker-contig_154-exonerate_protein2genome-gene-56.42	0.42	0		0.0	0.0	0	0		0.0	0.0	0	0		0.0	0.0	0	0		0.0	0.0	0	0	0	no_asm20_alignment
+28013	maker-contig_154-exonerate_protein2genome-gene-58.8	0.48	0		0.0	0.0	0	0		0.0	0.0	0	0		0.0	0.0	0	0		0.0	0.0	0	0	0	no_asm20_alignment
+28015	maker-contig_154-exonerate_protein2genome-gene-58.9	0.44	0		0.0	0.0	0	0		0.0	0.0	0	0		0.0	0.0	0	0		0.0	0.0	0	0	0	no_asm20_alignment
+28094	maker-contig_154-exonerate_protein2genome-gene-62.5	0.39	0		0.0	0.0	0	0		0.0	0.0	0	0		0.0	0.0	0	0		0.0	0.0	0	0	0	no_asm20_alignment
+28164	maker-contig_158-augustus-gene-7.11	0.43	14	Chr2	98.67	84.25	0	2	Chr3	68.04	86.0	0	19	Chr3	99.85	84.54	0	1	Chr3	99.41	83.88	0	4	0	partial_or_divergent_match
+28174	augustus_masked-contig_158-processed-gene-11.10	0.34	0		0.0	0.0	0	0		0.0	0.0	0	0		0.0	0.0	0	0		0.0	0.0	0	0	0	no_asm20_alignment
+28179	augustus_masked-contig_158-processed-gene-11.8	0.45	1	Chr3	96.44	99.54	1	1	Chr3	98.67	99.1	1	1	Chr3	98.67	99.1	1	0		0.0	0.0	0	3	3	strong_match_detected
+28184	maker-contig_158-exonerate_protein2genome-gene-11.14	0.24	0		0.0	0.0	0	0		0.0	0.0	0	0		0.0	0.0	0	0		0.0	0.0	0	0	0	no_asm20_alignment
+28184	maker-contig_158-exonerate_protein2genome-gene-12.0	0.24	0		0.0	0.0	0	0		0.0	0.0	0	0		0.0	0.0	0	0		0.0	0.0	0	0	0	no_asm20_alignment
+28195	maker-contig_158-exonerate_protein2genome-gene-12.3	0.46	0		0.0	0.0	0	0		0.0	0.0	0	0		0.0	0.0	0	0		0.0	0.0	0	0	0	no_asm20_alignment
+28302	maker-contig_158-exonerate_protein2genome-gene-21.15	0.24	0		0.0	0.0	0	0		0.0	0.0	0	0		0.0	0.0	0	0		0.0	0.0	0	0	0	no_asm20_alignment
+29105	augustus_masked-contig_158-processed-gene-52.39	0.49	0		0.0	0.0	0	0		0.0	0.0	0	0		0.0	0.0	0	0		0.0	0.0	0	0	0	no_asm20_alignment
+2923	maker-contig_79-exonerate_protein2genome-gene-74.58	0.48	0		0.0	0.0	0	0		0.0	0.0	0	0		0.0	0.0	0	0		0.0	0.0	0	0	0	no_asm20_alignment
+29328	maker-contig_158-exonerate_protein2genome-gene-59.46	0.27	0		0.0	0.0	0	0		0.0	0.0	0	0		0.0	0.0	0	0		0.0	0.0	0	0	0	no_asm20_alignment
+29508	maker-contig_158-exonerate_protein2genome-gene-65.55	0.34	0		0.0	0.0	0	0		0.0	0.0	0	0		0.0	0.0	0	0		0.0	0.0	0	0	0	no_asm20_alignment
+2993	maker-contig_79-exonerate_est2genome-gene-77.29	0.41	0		0.0	0.0	0	0		0.0	0.0	0	0		0.0	0.0	0	0		0.0	0.0	0	0	0	no_asm20_alignment
+30207	maker-contig_158-exonerate_protein2genome-gene-86.46	0.33	0		0.0	0.0	0	0		0.0	0.0	0	0		0.0	0.0	0	0		0.0	0.0	0	0	0	no_asm20_alignment
+30567	maker-contig_158-exonerate_protein2genome-gene-97.24	0.2	0		0.0	0.0	0	0		0.0	0.0	0	0		0.0	0.0	0	0		0.0	0.0	0	0	0	no_asm20_alignment
+34538	maker-contig_9-exonerate_protein2genome-gene-0.0	0.41	0		0.0	0.0	0	0		0.0	0.0	0	0		0.0	0.0	0	0		0.0	0.0	0	0	0	no_asm20_alignment
+3824	maker-contig_79-augustus-gene-104.11	0.27	0		0.0	0.0	0	0		0.0	0.0	0	0		0.0	0.0	0	0		0.0	0.0	0	0	0	no_asm20_alignment
+4006	maker-contig_79-exonerate_est2genome-gene-109.89	0.46	0		0.0	0.0	0	0		0.0	0.0	0	0		0.0	0.0	0	0		0.0	0.0	0	0	0	no_asm20_alignment
+4156	maker-contig_79-exonerate_protein2genome-gene-114.21	0.01	0		0.0	0.0	0	0		0.0	0.0	0	0		0.0	0.0	0	0		0.0	0.0	0	0	0	no_asm20_alignment
+4503	maker-contig_80-exonerate_protein2genome-gene-10.76	0.34	0		0.0	0.0	0	0		0.0	0.0	0	0		0.0	0.0	0	0		0.0	0.0	0	0	0	no_asm20_alignment
+4898	maker-contig_80-exonerate_protein2genome-gene-22.91	0.29	0		0.0	0.0	0	0		0.0	0.0	0	0		0.0	0.0	0	0		0.0	0.0	0	0	0	no_asm20_alignment
+4930	maker-contig_80-exonerate_protein2genome-gene-23.63	0.5	0		0.0	0.0	0	0		0.0	0.0	0	0		0.0	0.0	0	0		0.0	0.0	0	0	0	no_asm20_alignment
+54	maker-contig_1-exonerate_protein2genome-gene-2.27	0.31	0		0.0	0.0	0	0		0.0	0.0	0	0		0.0	0.0	0	0		0.0	0.0	0	0	0	no_asm20_alignment
+5834	maker-contig_80-exonerate_protein2genome-gene-55.58	0.49	0		0.0	0.0	0	0		0.0	0.0	0	0		0.0	0.0	0	0		0.0	0.0	0	0	0	no_asm20_alignment
+6004	maker-contig_80-exonerate_protein2genome-gene-61.20	0.46	0		0.0	0.0	0	0		0.0	0.0	0	0		0.0	0.0	0	0		0.0	0.0	0	0	0	no_asm20_alignment
+6111	augustus_masked-contig_80-processed-gene-65.57	0.4	0		0.0	0.0	0	0		0.0	0.0	0	0		0.0	0.0	0	0		0.0	0.0	0	0	0	no_asm20_alignment
+6141	maker-contig_80-exonerate_protein2genome-gene-66.22	0.36	0		0.0	0.0	0	0		0.0	0.0	0	0		0.0	0.0	0	0		0.0	0.0	0	0	0	no_asm20_alignment
+6191	augustus_masked-contig_80-processed-gene-69.8	0.45	0		0.0	0.0	0	0		0.0	0.0	0	0		0.0	0.0	0	0		0.0	0.0	0	0	0	no_asm20_alignment
+6255	maker-contig_80-exonerate_protein2genome-gene-71.31	0.44	0		0.0	0.0	0	0		0.0	0.0	0	0		0.0	0.0	0	0		0.0	0.0	0	0	0	no_asm20_alignment
+6299	maker-contig_80-exonerate_protein2genome-gene-74.12	0.29	0		0.0	0.0	0	0		0.0	0.0	0	0		0.0	0.0	0	0		0.0	0.0	0	0	0	no_asm20_alignment
+6307	maker-contig_80-exonerate_protein2genome-gene-74.19	0.33	0		0.0	0.0	0	0		0.0	0.0	0	0		0.0	0.0	0	0		0.0	0.0	0	0	0	no_asm20_alignment
+6315	maker-contig_80-exonerate_protein2genome-gene-74.14	0.44	0		0.0	0.0	0	0		0.0	0.0	0	0		0.0	0.0	0	0		0.0	0.0	0	0	0	no_asm20_alignment
+6368	augustus_masked-contig_81-processed-gene-0.6	0.34	0		0.0	0.0	0	0		0.0	0.0	0	0		0.0	0.0	0	0		0.0	0.0	0	0	0	no_asm20_alignment
+6510	maker-contig_85-augustus-gene-6.0	0.45	1	Chr3	74.6	91.89	0	1	Chr3	74.6	92.7	0	1	Chr3	74.6	92.76	0	1	Chr3	74.6	92.7	0	4	0	partial_or_divergent_match
+6516	maker-contig_85-augustus-gene-10.5	0.41	1	Chr5	99.1	79.53	0	1	Chr5	99.1	79.77	0	1	Chr5	99.1	79.69	0	1	Chr5	51.89	86.1	0	4	0	partial_or_divergent_match
+6540	maker-contig_85-exonerate_protein2genome-gene-15.0	0.16	1	Chr4	91.86	97.05	1	0		0.0	0.0	0	1	Chr4	91.86	97.05	1	1	Chr4	91.86	97.05	1	3	3	strong_match_detected
+6791	maker-contig_87-exonerate_protein2genome-gene-7.52	0.29	0		0.0	0.0	0	0		0.0	0.0	0	0		0.0	0.0	0	0		0.0	0.0	0	0	0	no_asm20_alignment
+686	augustus_masked-contig_79-processed-gene-0.5	0.46	1	Chr2	100.0	99.54	1	1	Chr2	100.0	99.54	1	1	Chr2	100.0	99.54	1	1	Chr2	100.0	99.54	1	4	4	strong_match_detected
+8447	maker-contig_96-exonerate_protein2genome-gene-2.19	0.4	0		0.0	0.0	0	0		0.0	0.0	0	0		0.0	0.0	0	0		0.0	0.0	0	0	0	no_asm20_alignment
+8455	maker-contig_96-exonerate_protein2genome-gene-2.20	0.37	0		0.0	0.0	0	0		0.0	0.0	0	0		0.0	0.0	0	0		0.0	0.0	0	0	0	no_asm20_alignment
+8479	maker-contig_96-exonerate_protein2genome-gene-4.6	0.21	0		0.0	0.0	0	0		0.0	0.0	0	0		0.0	0.0	0	0		0.0	0.0	0	0	0	no_asm20_alignment
+8716	maker-contig_97-exonerate_est2genome-gene-3.4	0.48	0		0.0	0.0	0	0		0.0	0.0	0	0		0.0	0.0	0	0		0.0	0.0	0	0	0	no_asm20_alignment
+9373	maker-contig_97-exonerate_est2genome-gene-24.97	0.46	0		0.0	0.0	0	0		0.0	0.0	0	0		0.0	0.0	0	0		0.0	0.0	0	0	0	no_asm20_alignment

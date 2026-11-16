@@ -1,0 +1,35 @@
+{
+  "candidates": 7,
+  "reference_genomes": [
+    "Col-0",
+    "Altai-5",
+    "Are-6",
+    "Etna-2"
+  ],
+  "per_accession_classes": {
+    "Col-0": {
+      "moderate_single_alignment": 5,
+      "weak_or_partial_alignment": 1,
+      "strong_single_alignment": 1
+    },
+    "Altai-5": {
+      "moderate_single_alignment": 5,
+      "strong_single_alignment": 2
+    },
+    "Are-6": {
+      "moderate_single_alignment": 4,
+      "strong_single_alignment": 2,
+      "weak_or_partial_alignment": 1
+    },
+    "Etna-2": {
+      "moderate_single_alignment": 5,
+      "strong_single_alignment": 2
+    }
+  },
+  "limitations": [
+    "Best HSP coverage is not cumulative locus coverage.",
+    "Same-target union may combine distinct genomic loci.",
+    "No BLASTN hit does not prove biological absence.",
+    "Synteny and assembly quality must be checked."
+  ]
+}

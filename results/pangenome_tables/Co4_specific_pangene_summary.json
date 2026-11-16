@@ -1,0 +1,19 @@
+{
+  "source": "/data/users/gercan/Gene_annotation/results/comparative_genomics/GENESPACE/run_5_with_TAIR10/pangenes/TAIR10_pangenes.txt.gz",
+  "genomes_observed": [
+    "Altai_5",
+    "Are_6",
+    "Co_4",
+    "Etna_2",
+    "TAIR10"
+  ],
+  "total_pangene_groups": 34776,
+  "Co4_only_pangene_groups": 525,
+  "Co4_candidate_gene_records": 585,
+  "Co4_flags_all_records": {
+    "NSOrtho": 2749,
+    "PASS": 24270,
+    "array": 410
+  },
+  "limitation": "These are candidate Co-4-specific pan-gene groups within the evaluated GENESPACE dataset. Absence of detected orthology does not establish biological absence in other accessions."
+}

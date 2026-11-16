@@ -1,0 +1,6 @@
+{
+  "original_no_alignment_candidates": 126,
+  "previously_screened_by_blastn": 7,
+  "remaining_candidates": 119,
+  "bed_file": "/data/users/gercan/Gene_annotation/results/comparative_genomics/GENESPACE/run_5_with_TAIR10/process_pangenome/Co4_specific_functional_analysis/PAV_validation/Co4_119_remaining_candidates.bed"
+}

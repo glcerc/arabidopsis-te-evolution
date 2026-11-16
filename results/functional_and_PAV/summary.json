@@ -1,0 +1,78 @@
+{
+  "candidate_pangene_groups": 525,
+  "candidate_gene_records": 585,
+  "unique_candidate_gene_ids": 585,
+  "genes_in_final_GFF": 585,
+  "genes_with_transcripts": 585,
+  "genes_with_AED": 585,
+  "genes_with_UniProt": 235,
+  "genes_with_TAIR10": 359,
+  "genes_with_Pfam": 205,
+  "genes_with_InterPro": 205,
+  "genes_with_UniProt_functions": 235,
+  "genes_with_any_external_evidence": 369,
+  "keyword_category_counts": {
+    "transposon_related": 6,
+    "defense_related": 5,
+    "stress_related": 1
+  },
+  "source_read_statistics": {
+    "UniProt": {
+      "status": "read",
+      "records": 20572,
+      "matched_records": 267,
+      "header_skipped": false,
+      "matched_query_examples": [
+        "augustus_masked-contig_1-processed-gene-11.60-mRNA-1",
+        "augustus_masked-contig_1-processed-gene-18.82-mRNA-1"
+      ]
+    },
+    "TAIR10": {
+      "status": "read",
+      "records": 26843,
+      "matched_records": 401,
+      "header_skipped": false,
+      "matched_query_examples": [
+        "augustus_masked-contig_1-processed-gene-11.60-mRNA-1",
+        "augustus_masked-contig_1-processed-gene-18.82-mRNA-1"
+      ]
+    },
+    "Pfam": {
+      "status": "read",
+      "records": 39893,
+      "matched_records": 344,
+      "header_skipped": false,
+      "matched_query_examples": [
+        "augustus_masked-contig_141-processed-gene-9.16-mRNA-1",
+        "augustus_masked-contig_158-processed-gene-61.13-mRNA-1"
+      ]
+    },
+    "InterPro": {
+      "status": "read",
+      "records": 21437,
+      "matched_records": 225,
+      "header_skipped": true,
+      "matched_query_examples": [
+        "augustus_masked-contig_1-processed-gene-11.60-mRNA-1",
+        "augustus_masked-contig_104-processed-gene-4.43-mRNA-1"
+      ]
+    },
+    "UniProt_functions": {
+      "status": "read",
+      "records": 20572,
+      "matched_records": 267,
+      "header_skipped": true,
+      "matched_query_examples": [
+        "augustus_masked-contig_1-processed-gene-11.60-mRNA-1",
+        "augustus_masked-contig_1-processed-gene-18.82-mRNA-1"
+      ]
+    }
+  },
+  "limitations": [
+    "Only candidate accession-specific groups, not proven unique genes.",
+    "Functional keyword categories are screening labels, not validated functions.",
+    "Source tables must be checked for query-ID and column compatibility.",
+    "Missing annotation may reflect an ID mismatch or absent evidence.",
+    "Protein isoforms and pangene groups are not interchangeable units."
+  ]
+}

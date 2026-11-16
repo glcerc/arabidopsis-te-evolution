@@ -1,0 +1,8 @@
+pgID	gene_id	priority	gene_length_bp	best_AED	protein_screen	TAIR10_protein_hit	Pfam	InterPro	functional_categories	no_minimap2_alignment_in_four_genomes
+19737	maker-contig_133-augustus-gene-71.45	higher_priority	4188	0.09	weak_or_partial_reference_similarity	AT1G65850.2	1	1	defense_related	yes
+19821	maker-contig_133-exonerate_protein2genome-gene-75.18	higher_priority	366	0.03	no_TAIR10_besthit		0	0		yes
+22761	maker-contig_138-exonerate_est2genome-gene-9.44	higher_priority	323	0.0	no_TAIR10_besthit		0	0		yes
+27742	maker-contig_154-exonerate_est2genome-gene-47.34	higher_priority	411	0.0	no_TAIR10_besthit		0	0		yes
+28179	maker-contig_158-augustus-gene-30.4	higher_priority	1913	0.18	weak_or_partial_reference_similarity	AT4G03830.1	1	1		yes
+28772	maker-contig_158-augustus-gene-42.16	higher_priority	868	0.0	moderate_reference_similarity	AT1G24230.1	0	0		yes
+6540	maker-contig_85-exonerate_protein2genome-gene-15.1	higher_priority	315	0.25	weak_or_partial_reference_similarity	AT2G12880.1	1	1		yes

@@ -1,0 +1,41 @@
+{
+  "total_candidate_genes": 585,
+  "per_accession": {
+    "Col-0": {
+      "strong_genomic_match": 331,
+      "no_detected_alignment": 189,
+      "partial_or_divergent_match": 65
+    },
+    "Altai-5": {
+      "strong_genomic_match": 305,
+      "no_detected_alignment": 197,
+      "partial_or_divergent_match": 83
+    },
+    "Are-6": {
+      "strong_genomic_match": 303,
+      "no_detected_alignment": 192,
+      "partial_or_divergent_match": 90
+    },
+    "Etna-2": {
+      "strong_genomic_match": 323,
+      "no_detected_alignment": 186,
+      "partial_or_divergent_match": 76
+    }
+  },
+  "combined": {
+    "strong_match_in_at_least_one_reference": 405,
+    "ambiguous_genomic_presence": 54,
+    "no_alignment_in_four_references": 126
+  },
+  "screening_thresholds": {
+    "strong_query_coverage_pct": 90,
+    "strong_identity_pct": 90
+  },
+  "limitations": [
+    "A strong genomic DNA match does not establish a functional gene.",
+    "No minimap2 alignment does not establish biological absence.",
+    "The best single alignment is used for screening classification.",
+    "The same-target union is diagnostic, not locus-resolved coverage.",
+    "Further sensitive search, synteny and assembly validation are needed."
+  ]
+}

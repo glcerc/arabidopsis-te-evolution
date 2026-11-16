@@ -1,0 +1,13 @@
+{
+  "no_alignment_gene_records": 126,
+  "no_alignment_pangene_groups": 122,
+  "priority_statistics": {
+    "requires_review": 119,
+    "AED_le_0.25": 35,
+    "transposon_related": 0,
+    "length_ge_300bp": 14,
+    "no_TAIR10_protein_besthit": 101,
+    "higher_priority": 7
+  },
+  "warning": "No minimap2 asm5 alignment is not proof of absence. Candidates require sensitive sequence searches, synteny checks, and TE filtering."
+}
